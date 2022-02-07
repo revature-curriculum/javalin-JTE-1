@@ -1,4 +1,4 @@
-## Javalin JTE
+## JTE with Java Classes 1: Adding Objects
 ---
 ### Description
 In this lab, we will cover how to use JTEs with your Javalin web application.
