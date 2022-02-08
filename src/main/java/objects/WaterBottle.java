@@ -1,5 +1,5 @@
 package objects;
 
-class WaterBottle {
+public class WaterBottle {
   
 }
